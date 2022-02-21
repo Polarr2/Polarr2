@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=thepolardeveloper&&show_icons=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepolardeveloper)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepolardeveloper&count_private=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepolardeveloper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
