@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepolardeveloper&count_private=true&theme=radical&bg_color=45,#AB3ED5,#F29C1A)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepolardeveloper&count_private=true&theme=radical&bg_color=45,AB3ED5,F29C1A)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepolardeveloper&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there 👋
