@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepolardeveloper&count_private=true&bg_color=45,AB3ED5,F29C1A&title_color=000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepolardeveloper&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepolardeveloper&layout=compact&bg_color=45,AB3ED5,F29C1A&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there 👋
 ## My name is Polarr!
